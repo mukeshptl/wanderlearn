@@ -4864,3 +4864,43 @@ h4 {
 .photo-item-text {
   text-align: center;
 }
+
+.form-label {
+  color: white;
+  font-size: 18px;
+  text-transform: capitalize;
+  padding-bottom: 8px;
+}
+
+.contact-us-form {
+  margin-top: 30px;
+}
+
+.form-row {
+  margin-bottom: 24px;
+  margin-left: 10%;
+}
+
+.form-control input{
+  padding: 12px;
+  height: 45px;
+  width: 100%;
+  border: 0.5px solid #777;
+  border-radius: 0px;
+  color: #777;
+  font-size: 18px;
+  outline: none;
+}
+
+.form-submit-button {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+  background-color: #2f74e4;
+  border-color: #2f74e4;
+  margin-left: 5%;
+  padding: 15px 40px;
+  font-size: 20px;
+  margin-top: 30px;
+}
